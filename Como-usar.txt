@@ -1,0 +1,11 @@
+Para acessar uma pagina php:
+LOCALHOST/index.php    OU
+
+LOCALHOST/blog/public/index.php
+
+
+
+
+
+Para acessar uma pagina html
+LOCALHOST
