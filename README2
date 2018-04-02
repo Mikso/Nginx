@@ -1,0 +1,13 @@
+Os arquivos .bat são para agilizar o inicio do nginx
+
+no CMD
+
+<h3>start.bat</h3>
+  
+  Inicia o nginx e o php
+  
+<h3>stop.bat</h3>
+  Para o nginx e o php
+  
+  
+  <h4>Obs: Não feche a janela do php, caso contrário o servidor ficará offline</h4>
